@@ -1,4 +1,4 @@
-# Boeing 737-300 Flight Mechanics & Performance Simulator (MATLAB) ✈️
+# Boeing 737-300 Flight Mechanics & Performance Simulator (MATLAB) 
 
 This repository contains a flight mechanics simulator for the **Boeing 737-300** airliner. Developed in **MATLAB**, the suite models the aerodynamic polar, ISA atmosphere, and turbofan engine performance (2x CFM56-3B1) to evaluate flight envelopes, climb rates, glides, ceilings, and coordinated turn limits across multiple weight configurations.
 
